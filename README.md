@@ -23,7 +23,7 @@ On Windows run the batch file. On Linux/Mac see below
 python app.py
 ```
 
-# Automatski's SDKs
+# Automatski's Quantum SDKs
 
 [Quantum Annealing SDK](https://bit.ly/4ej7yaw)
 
