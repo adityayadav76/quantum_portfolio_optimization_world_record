@@ -23,3 +23,13 @@ On Windows run the batch file. On Linux/Mac see below
 python app.py
 ```
 
+# Automatski's SDKs
+
+[Quantum Annealing SDK](https://bit.ly/4ej7yaw)
+
+[Getting Started With Quantum Annealing Video](https://youtu.be/-wKqcIKxY0A)
+
+
+[Quantum Computing SDK](https://bit.ly/3XU7NDX)
+
+[Getting Started With Quantum Computing Video](https://youtu.be/o4x0YWJ4YMw)
