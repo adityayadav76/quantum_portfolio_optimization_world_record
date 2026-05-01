@@ -5,6 +5,9 @@ All attempts peak at around 50 Stock Portfolios. Q-CHOP has done 250 Stock Portf
 
 ![](https://automatski.com/wp-content/uploads/2025/05/Automatski-New-Logo.svg)
 
+![](https://raw.githubusercontent.com/adityayadav76/quantum_portfolio_optimization_world_record/refs/heads/main/screenshot.png)
+
+
 ## About
 
 This repository contains an implementation of Portfolio Optimization using Quantum Annealers created by [Automatski](https://automatski.com). Automatski's Quantum Annealers support upto 500 million spin up-down Boolean Variables.
