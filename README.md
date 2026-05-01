@@ -9,6 +9,8 @@ All attempts peak at around 50 Stock Portfolios. Q-CHOP has done 250 Stock Portf
 
 This repository contains an implementation of Portfolio Optimization using Quantum Annealers created by [Automatski](https://automatski.com). Automatski's Quantum Annealers support upto 500 million spin up-down Boolean Variables.
 
+To see a demonstration of code in this repo please see the [Demo Video](https://youtu.be/suvMWSSjQdg)
+
 ### Intellectual Property
 
 All rights are reserved by Automatski for Automatski-authored components of this codebase. Rights to third-party or upstream components remain with their respective original authors and licensors.
